@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Bybit.Net" Version="5.0.0-beta2" />
+    <PackageReference Include="Bybit.P2P" Version="1.2.0" />
+    <PackageReference Include="dotenv.net" Version="3.2.1" />
+    <PackageReference Include="EmbedIO" Version="3.5.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
 </Project>
